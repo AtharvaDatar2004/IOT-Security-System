@@ -43,3 +43,8 @@ Working Principle:
 3.The system sends an alert (via push notification, SMS, or email) to the user.
 4.The user can view live video or review stored images on the mobile app or web dashboard.
 5.If an intruder is detected, the alarm sounds, and the system can trigger additional security actions.
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/64f9509a-5323-4fe2-bace-9886d9d5ec98)
+![Image](https://github.com/user-attachments/assets/3698a4c5-0a4f-46e8-bade-480f3a7035c8)
